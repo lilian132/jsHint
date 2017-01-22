@@ -1,0 +1,23 @@
+{
+  "name": "jshint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hint": "jshint js/1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilian132/jsHint.git"
+  },
+  "keywords": [
+    "jshint"
+  ],
+  "author": "lilian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilian132/jsHint/issues"
+  },
+  "homepage": "https://github.com/lilian132/jsHint#readme"
+}
